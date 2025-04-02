@@ -10,5 +10,5 @@
 </ul>
 <h2 class="heading-element" dir="auto">Links 🔗</h2>
 
-<p>LinkedIn: <a href="https://www.linkedin.com/in/mohamed-wael-1aba0527b/">https://www.linkedin.com/in/mohamed-wael-1aba0527b/</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/mohamed-wael-1aba0527b/">LinkedIn</a></p>
 <p>&nbsp;</p>
