@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 class="heading-element" dir="auto">Hey, I'm Muhammed Wael 👋</h1>
 
-<!--
-**kafo9991/kafo9991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p class="heading-element" dir="auto">I'm a Software Engineer with focus on Android Development &amp; I'm a CS Student.</p>
+<h2 class="heading-element" dir="auto">About Me ℹ️</h2>
 
-Here are some ideas to get you started:
+<ul>
+<li class="heading-element" dir="auto">I'm a CS Student.</li>
+<li class="heading-element" dir="auto">Foucs on Android Dev and Software Engineering.</li>
+<li class="heading-element" dir="auto">Open to collaboration and new opportunities.</li>
+</ul>
+<h2 class="heading-element" dir="auto">Links 🔗</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>LinkedIn: <a href="https://www.linkedin.com/in/mohamed-wael-1aba0527b/">https://www.linkedin.com/in/mohamed-wael-1aba0527b/</a></p>
+<p>&nbsp;</p>
